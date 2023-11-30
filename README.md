@@ -119,8 +119,8 @@ SKIP Bagian ini jika pake Android karena akan dijelaskan di bawah.
    ```
    nano ants.js
    ```
-8.. Ubah YOUR_PRIVATE_KEY dan YOUR_ADDRESS sesuai dengan milikmu.
-9.. Jika sudah maka Save dengan klik tombol Ctrl + X lalu Y dan terakhir Enter.
+8. Ubah YOUR_PRIVATE_KEY dan YOUR_ADDRESS sesuai dengan milikmu.
+9. Jika sudah maka Save dengan klik tombol Ctrl + X lalu Y dan terakhir Enter.
 10. Terakhir, jalankan perintah
     ```
     node ants.js
